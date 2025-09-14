@@ -38,7 +38,7 @@ This repository documents the obtaining, configuring, and deploying a [SenseCAP 
 
 ## 🏡 Deployment Process *(In Process—Brief Overview Only)*
 
-   * Plan to fasten to my tv antenna pole
+   * Plan to fasten to my TV antenna pole
 
 ## 📊 Testing & Validation *(In Process—Brief Overview Only)*
 
