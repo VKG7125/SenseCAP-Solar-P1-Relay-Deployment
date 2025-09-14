@@ -14,7 +14,7 @@
 
 ## 📖 Overview
 
-This repository documents the obtaining, configuring, and deploying a [SenseCAP Solar P1 Meshtastic relay](https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-for-Meshtastic-LoRa-p-6425.html). It includes resources, configurations, and lessons learned to help others replicate or adapt this deployment for their own use.
+This repository documents the obtaining, configuring, and deploying a [SenseCAP Solar P1 Meshtastic relay](https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-for-Meshtastic-LoRa-p-6425.html). It includes resources and configurations to help others replicate this deployment.
 
 ## 🛠️ Hardware Obtained (Purchased)
 
