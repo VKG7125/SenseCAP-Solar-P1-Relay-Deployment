@@ -7,7 +7,7 @@
 *A Recollection of my Obtainment and Deployment of a SenseCAP Solar P1 Meshtastic Relay*
 ## 📌 Project Status  
 ![status](https://img.shields.io/badge/Status-In_Progress-yellow)
-* I have currently ordered all of the hardware listed in the [Hardware](#🛠️-Hardware-Obtained-(Purchased)) below. I will determine if I should purchase a 5.8 dBi fiberglass antenna later. The main goal right now is actually getting it up and running — regardless of range.
+* I have currently ordered all of the hardware listed in the [Hardware](#-hardwaresoftware-configuration-in-processbrief-overview-only) below. I will determine if I should purchase a 5.8 dBi fiberglass antenna later. The main goal right now is actually getting it up and running — regardless of range.
 
 ## 📖 Overview
 
