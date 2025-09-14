@@ -2,7 +2,7 @@
 
 ---
 
-# SenseCAP P1 Relay Deployment
+# SenseCAP Solar P1 Relay Deployment
 
 *A Recollection of my Obtainment and Deployment of a SenseCAP Solar P1 Meshtastic Relay*
 ## 📌 Project Status  
@@ -48,7 +48,7 @@ This repository documents the obtaining, configuring, and deploying a [SenseCAP 
 
 ## 📂 Resources Created
 
-* [**Informational Flyer**](https://github.com/VKG7125/SenseCAP-Solar-P1-Relay-Deployment/raw/refs/heads/main/Building%20a%20Resilient%20Community%20with%20Meshtastic%20%7C%20Github%20Release.docx) to assist in getting my community more involved with Meshtastic
+* [**Informational Flyer**](https://github.com/VKG7125/SenseCAP-Solar-P1-Relay-Deployment/blob/main/Building%20a%20Resilient%20Community%20with%20Meshtastic%20(GitHub%20Release).pdf) to assist in getting my community more involved with Meshtastic
 
 ## 🌍 Results & Coverage *(In Process—Brief Overview Only)*
 
