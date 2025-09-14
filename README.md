@@ -2,7 +2,7 @@
 
 ---
 
-# SenseCAP Solar P1 Relay Deployment
+# SenseCAP Solar P1 Meshtastic Relay Deployment
 
 *A Recollection of my Obtainment and Deployment of a SenseCAP Solar P1 Meshtastic Relay*
 ## 📌 Project Status  
