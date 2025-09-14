@@ -9,6 +9,7 @@
 ![status](https://img.shields.io/badge/Status-In_Progress-yellow)
 * I have currently ordered all of the hardware listed in the [Hardware](https://github.com/VKG7125/SenseCAP-Solar-P1-Relay-Deployment/tree/main?tab=readme-ov-file#%EF%B8%8F-hardware-obtained-purchased) section below.
 * I will determine if I should purchase a 5.8 dBi fiberglass antenna later.
+* I also went ahead and created a [Community Flyer](https://github.com/VKG7125/SenseCAP-Solar-P1-Relay-Deployment/edit/main/README.md#-resources-created) for my local community. 
 * The **main goal right now** is actually getting it up and running — regardless of range.
 
 ## 📖 Overview
@@ -47,7 +48,7 @@ This repository documents the obtaining, configuring, and deploying a [SenseCAP 
 
 ## 📂 Resources Created
 
-* **Imformation Sheet** to assist in get my community more involved with Meshtastic *(Uploading Soon)*
+* [**Informational Flyer**](https://github.com/VKG7125/SenseCAP-Solar-P1-Relay-Deployment/raw/refs/heads/main/Building%20a%20Resilient%20Community%20with%20Meshtastic%20%7C%20Github%20Release.docx) to assist in getting my community more involved with Meshtastic
 
 ## 🌍 Results & Coverage *(In Process—Brief Overview Only)*
 
