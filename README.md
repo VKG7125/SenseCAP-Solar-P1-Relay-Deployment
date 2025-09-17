@@ -19,7 +19,7 @@ This repository documents the obtaining, configuring, and deploying a [SenseCAP 
 ## 🛠️ Hardware Obtained (Ordered | Awaiting Reception)
 
 * [**SenseCAP Solar P1** Meshtastic Relay](https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-for-Meshtastic-LoRa-p-6425.html)
-* [Samsung 35E 18650 Button Top 3500mAh Battery **(Quantity of 4)**](https://www.18650batterystore.com/products/samsung-35e-protected)
+* [Samsung 35E 18650 Button Top 3500mAh Battery **(Quantity of 4)**](https://www.18650batterystore.com/products/samsung-35e-protected) **|** ✅ **[Received]**
 * [SenseCAP Card Tracker T1000-E for Meshtastic *(My choice of communicator)*](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html)
 
 ## ⚙️ Hardware/Software Configuration *(In Process—Brief Overview Only)*
