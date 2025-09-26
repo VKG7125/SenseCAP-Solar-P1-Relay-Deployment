@@ -6,7 +6,7 @@
 
 *A Recollection of my Obtainment and Deployment of a SenseCAP Solar P1 Meshtastic Relay*
 ## 📌 Project Status  
-![status](https://img.shields.io/badge/Status-In_Progress_(Hardware_Ordered)-yellow)
+![status](https://img.shields.io/badge/Status-In_Progress_(Hardware_Received)-yellow)
 * I have ordered all of the hardware listed in the [Hardware](https://github.com/VKG7125/SenseCAP-Solar-P1-Relay-Deployment?tab=readme-ov-file#%EF%B8%8F-hardware-obtained-purchased) section below. **Currently awaiting reception.**
 * I will determine if I should purchase a 5.8 dBi fiberglass antenna later.
 * I also went ahead and created a [Community Flyer](https://github.com/VKG7125/SenseCAP-Solar-P1-Relay-Deployment?tab=readme-ov-file#-resources-created) for my local community. 
@@ -16,11 +16,11 @@
 
 This repository documents the obtaining, configuring, and deploying a [SenseCAP Solar P1 Meshtastic relay](https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-for-Meshtastic-LoRa-p-6425.html). It includes resources and configurations to help others replicate this deployment.
 
-## 🛠️ Hardware Obtained (Ordered | Awaiting Reception)
+## 🛠️ Hardware Obtained (Ordered | ✅ Received)
 
-* [**SenseCAP Solar P1** Meshtastic Relay](https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-for-Meshtastic-LoRa-p-6425.html)
+* [**SenseCAP Solar P1** Meshtastic Relay](https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-for-Meshtastic-LoRa-p-6425.html) **|** ✅ **[Received]**
 * [Samsung 35E 18650 Button Top 3500mAh Battery **(Quantity of 4)**](https://www.18650batterystore.com/products/samsung-35e-protected) **|** ✅ **[Received]**
-* [SenseCAP Card Tracker T1000-E for Meshtastic *(My choice of communicator)*](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html)
+* [SenseCAP Card Tracker T1000-E for Meshtastic *(My choice of communicator)*](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html) **|** ✅ **[Received]**
 
 ## ⚙️ Hardware/Software Configuration *(In Process—Brief Overview Only)*
 
