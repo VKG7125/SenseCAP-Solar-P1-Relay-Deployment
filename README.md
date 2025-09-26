@@ -6,7 +6,7 @@
 
 *A Recollection of my Obtainment and Deployment of a SenseCAP Solar P1 Meshtastic Relay*
 ## 📌 Project Status  
-![status](https://img.shields.io/badge/Status-In_Progress_(Hardware_Received)-yellow)
+![status](https://img.shields.io/badge/Status-In_Progress_(Deployment_Soon)-yellow)
 * I have ordered all of the hardware listed in the [Hardware](https://github.com/VKG7125/SenseCAP-Solar-P1-Relay-Deployment?tab=readme-ov-file#%EF%B8%8F-hardware-obtained-purchased) section below. **Currently awaiting reception.**
 * I will determine if I should purchase a 5.8 dBi fiberglass antenna later.
 * I also went ahead and created a [Community Flyer](https://github.com/VKG7125/SenseCAP-Solar-P1-Relay-Deployment?tab=readme-ov-file#-resources-created) for my local community. 
