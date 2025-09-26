@@ -16,7 +16,7 @@
 
 This repository documents the obtaining, configuring, and deploying a [SenseCAP Solar P1 Meshtastic relay](https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-for-Meshtastic-LoRa-p-6425.html). It includes resources and configurations to help others replicate this deployment.
 
-## 🛠️ Hardware Obtained (Ordered | ✅ All Received)
+## 🛠️ Hardware Obtained (✅ All Received)
 
 * [**SenseCAP Solar P1** Meshtastic Relay](https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-for-Meshtastic-LoRa-p-6425.html)
 * [Samsung 35E 18650 Button Top 3500mAh Battery **(Quantity of 4)**](https://www.18650batterystore.com/products/samsung-35e-protected)
@@ -31,7 +31,7 @@ This repository documents the obtaining, configuring, and deploying a [SenseCAP 
 
 3. **Custom Settings**
 
-   * The name was set VKGR (Long name: VKG7125 Relay 1)
+   * The name was set *VKGR* (Long name: *VKG7125 Relay 1*)
    * Admin was setup with the T1000-E's public key, but I have yet to actually utilize it.
 
 ## 🏡 Deployment Process *(In Process—Deploying Soon)*
