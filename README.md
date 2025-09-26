@@ -22,21 +22,19 @@ This repository documents the obtaining, configuring, and deploying a [SenseCAP 
 * [Samsung 35E 18650 Button Top 3500mAh Battery **(Quantity of 4)**](https://www.18650batterystore.com/products/samsung-35e-protected)
 * [SenseCAP Card Tracker T1000-E for Meshtastic *(My choice of communicator)*](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html)
 
-## ⚙️ Hardware/Software Configuration *(In Process—Brief Overview Only)*
+## ⚙️ Hardware/Software Configuration
 
 1. **Basic Setup**
 
-   * Connecting to the device (via mobile app, web, or CLI)
-   * Basic configuration parameters (frequency, region, etc.)
+   * Primarily configured with the Meshtastic mobile app.
+   * Configuration was pretty straightfoward. I set the role as `router` rather than client, as it is just a relay and I'm and using the T1000-E as a communicator. 
 
 3. **Custom Settings**
 
-   * Node name & channel settings
-   * Power/signal optimization settings
-   * Relay-specific configuration choices
-   * Admin communicator setup
+   * The name was set VKGR (Long name: VKG7125 Relay 1)
+   * Admin was setup with the T1000-E's public key, but I have yet to actually utilize it.
 
-## 🏡 Deployment Process *(In Process—Brief Overview Only)*
+## 🏡 Deployment Process *(In Process—Deploying Soon)*
 
    * Plan to fasten to my TV antenna pole
 
