@@ -16,11 +16,11 @@
 
 This repository documents the obtaining, configuring, and deploying a [SenseCAP Solar P1 Meshtastic relay](https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-for-Meshtastic-LoRa-p-6425.html). It includes resources and configurations to help others replicate this deployment.
 
-## 🛠️ Hardware Obtained (Ordered | ✅ Received)
+## 🛠️ Hardware Obtained (Ordered | ✅ All Received)
 
-* [**SenseCAP Solar P1** Meshtastic Relay](https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-for-Meshtastic-LoRa-p-6425.html) **|** ✅ **[Received]**
-* [Samsung 35E 18650 Button Top 3500mAh Battery **(Quantity of 4)**](https://www.18650batterystore.com/products/samsung-35e-protected) **|** ✅ **[Received]**
-* [SenseCAP Card Tracker T1000-E for Meshtastic *(My choice of communicator)*](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html) **|** ✅ **[Received]**
+* [**SenseCAP Solar P1** Meshtastic Relay](https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-for-Meshtastic-LoRa-p-6425.html)
+* [Samsung 35E 18650 Button Top 3500mAh Battery **(Quantity of 4)**](https://www.18650batterystore.com/products/samsung-35e-protected)
+* [SenseCAP Card Tracker T1000-E for Meshtastic *(My choice of communicator)*](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html)
 
 ## ⚙️ Hardware/Software Configuration *(In Process—Brief Overview Only)*
 
