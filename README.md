@@ -44,7 +44,6 @@ This repository documents the obtaining, configuring, and deploying a [SenseCAP 
 
 * [Meshtastic Documentation](https://meshtastic.org/docs/)
 * [SenseCAP Documentation](https://docs.sensecapmx.com/)
-* Any relevant forum threads, GitHub issues, or videos
 
 ---
 
