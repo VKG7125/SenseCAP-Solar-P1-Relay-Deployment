@@ -28,7 +28,7 @@ This repository documents the obtaining, configuring, and deploying a [SenseCAP 
 3. **Custom Settings**
 
    * The name was set *VKGR* (Long name: *VKG7125 Relay 1*)
-   * Admin was setup with the T1000-E's public key, but I have yet to actually utilize it.
+   * Admin was setup with the T1000-E's key, but I have yet to actually utilize it.
 <img src="https://raw.githubusercontent.com/VKG7125/SenseCAP-Solar-P1-Relay-Deployment/refs/heads/main/SenseCap%20Assembled.jpg" alt="Assembled SenseCAP Relay and T1000-E" height="200"/>
 
 ## 🏡 Deployment Process (Images)
